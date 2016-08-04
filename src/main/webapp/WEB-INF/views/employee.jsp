@@ -14,7 +14,7 @@
 </head>
 <body>
 <h1>
-	Add an Employee
+	Add a New Employee
 </h1>
 
 <c:url var="addAction" value="/employee/add" ></c:url>
